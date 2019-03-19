@@ -1,0 +1,20 @@
+Allocated block A-0 at 8
+Allocated block A-1 at 80
+Allocated block A-2 at 152
+Allocated block A-3 at 224
+Allocated block A-4 at 296
+Allocated block A-5 at 368
+Freed block A-0
+Freed block A-2
+Freed block A-4
+Allocated block B-0 at 8
+Allocated block B-1 at 40
+Allocated block B-2 at 152
+Allocated block B-3 at 184
+Allocated block B-4 at 296
+Allocated block B-5 at 328
+Freed block B-0
+Freed block B-1
+Freed block B-2
+Freed block B-3
+Freed block B-4

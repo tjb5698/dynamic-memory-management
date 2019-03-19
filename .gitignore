@@ -1,0 +1,16 @@
+# VSCode settings
+.vscode/
+
+# MacOS files
+*.dSYM/
+
+# Executables
+project3*
+test
+
+# Compilation artifacts
+*.o
+*.gch
+
+# GDB file
+.gdbinit

@@ -1,0 +1,29 @@
+Allocated block A-0 at 8
+Allocated block A-1 at 80
+Allocated block A-2 at 152
+Allocated block A-3 at 224
+Allocated block A-4 at 296
+Allocated block A-5 at 368
+Freed block A-0
+Freed block A-2
+Freed block A-4
+Allocated block B-0 at 440
+Allocated block B-1 at 472
+Allocated block B-2 at 504
+Allocated block B-3 at 536
+Allocated block B-4 at 568
+Allocated block B-5 at 600
+Reallocated block B-0 at 632
+Reallocated block B-1 at 696
+Reallocated block B-2 at 760
+Reallocated block B-3 at 824
+Reallocated block B-0 at 632
+Reallocated block B-1 at 696
+Reallocated block B-2 at 760
+Reallocated block B-3 at 824
+Reallocated block B-4 at 568
+Reallocated block B-0 at 848
+Reallocated block B-1 at 960
+Reallocated block B-2 at 1072
+Reallocated block B-3 at 1184
+Reallocated block B-4 at 1296
